@@ -1,4 +1,4 @@
-﻿# Hackintosh-i5-10600k-Asus-Prime-Z490-A
+# Hackintosh-i5-10600k-Asus-Prime-Z490-A
 Hi, 
 I have successfully installed Mac Os Big Sur in my computer with i5-10600k and Asus Prime
 Z490-A.
