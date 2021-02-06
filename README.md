@@ -20,7 +20,7 @@ Running os: Big Sur 11,1
  - [x] **USB:** All Ports 
  - [x] **2.5Gbit Ethernet** 
  - [x] **Apple TV**
- - [x] **Shutdown And Restart**
+ - [x] **Shutdown, Reboot, Sleep/Wake**
  # What Doesn't Work
  
  - Netflix And Prime Video on Safari - In other browsers PrimeVideo available in 1080p video and Netflix in 720p
