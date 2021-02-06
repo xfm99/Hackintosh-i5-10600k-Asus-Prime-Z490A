@@ -2,8 +2,11 @@
 Hi, 
 I have successfully installed Mac Os Big Sur in my computer with i5-10600k and Asus Prime
 Z490-A.
+
 My Efi and all my configuration can be found above. 
+
 Running os: Big Sur 11,1
+
 **Running Bootloader: Opencore 0.6.6**
 ![Mac os Big Sur ](https://github.com/xfm99/hackintosh_10600k/raw/main/Docs/ok.png)
 # Hardware
